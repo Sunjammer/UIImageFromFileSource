@@ -1,4 +1,0 @@
-$: 1290524202
-BuildCommand: "bash build.sh"
-RunCommand: "bash run.sh"
-Product: build/Debug-iphoneos/UIImageFromBundle.app/UIImageFromBundle
